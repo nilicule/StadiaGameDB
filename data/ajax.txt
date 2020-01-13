@@ -139,8 +139,8 @@
     [
       "<a href='https://stadia.google.com/u/1/store/details/4884bd9bd7864cf28deef05ef4b69e70rcp1/sku/31047b9e82bb4a30ba66b24bef71cdf2'><img src='images/posters/wolfenstein_youngblood.png'></a>",
       "Wolfenstein: Youngblood",
-      "November 19, 2019",
       "Action, Shooter",
+      "November 19, 2019",
       "4k60",
       "Single player, online multiplayer, online co-op"
     ],
