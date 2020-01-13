@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Stadia Game DB</title>
+
+    <script type="text/javascript" src="js/jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css">
+
+    <script type="text/javascript" class="init">
+        $(document).ready(function() {
+	        $('#example').DataTable( {
+		        "ajax": 'data/ajax.txt'
+	        } );
+        } );
+	</script>
+</head>
+<body>
+
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Poster</th>
+                <th>Name</th>
+                <th>Genre</th>
+                <th>Released</th>
+                <th>Resolution</th>
+                <th>Players</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>Poster</th>
+                <th>Name</th>
+                <th>Genre</th>
+                <th>Released</th>
+                <th>Resolution</th>
+                <th>Players</th>
+            </tr>
+        </tfoot>
+    </table>
+
+</body>
+</html>
