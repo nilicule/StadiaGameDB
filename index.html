@@ -20,10 +20,29 @@
 
     <script type="text/javascript" class="init">
         $(document).ready(function() {
-	        $('#example').DataTable( {
+            var query = getQueryParams(document.location.search);
+
+	        var stadiaTable = $('#example').DataTable( {
 		        "ajax": 'data/ajax.txt'
 	        } );
+
+            if (query.filter != null) {
+                stadiaTable.search(query.filter).draw();
+            }
         } );
+
+        function getQueryParams(qs) {
+	        qs = qs.split('+').join(' ');
+	        var params = 	{},
+    			tokens,
+    			re = /[?&]?([^=]+)=([^&]*)/g;
+
+        	while (tokens = re.exec(qs)) {
+        		params[decodeURIComponent(tokens[1])] = decodeURIComponent(tokens[2]);
+	        }
+
+        	return params;
+        }
 	</script>
 </head>
 <body>
