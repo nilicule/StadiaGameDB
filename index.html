@@ -24,7 +24,11 @@
 
 	        var stadiaTable = $('#example').DataTable( {
 		        "ajax": 'data/gamedb.json',
-		        "iDisplayLength": 100
+		        "iDisplayLength": 100,
+		        "columnDefs": [
+                    { "searchable": false, "targets": 0 },
+                    { "orderable": false, "targets": 0 }
+                ]
 	        } );
 
             if (query.filter != null) {
