@@ -23,7 +23,8 @@
             var query = getQueryParams(document.location.search);
 
 	        var stadiaTable = $('#example').DataTable( {
-		        "ajax": 'data/gamedb.json'
+		        "ajax": 'data/gamedb.json',
+		        "iDisplayLength": 100
 	        } );
 
             if (query.filter != null) {
