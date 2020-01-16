@@ -4,6 +4,7 @@
 	        var stadiaTable = $('#stadiagamedb').DataTable( {
 		        "ajax": 'data/gamedb.json',
 		        "iDisplayLength": 100,
+		        responsive: true,
 		        "columnDefs": [
                     { "searchable": false, "targets": 0 },
                     { "orderable": false, "targets": 0 }
@@ -13,6 +14,11 @@
             if (query.filter != null) {
                 stadiaTable.search(query.filter).draw();
             }
+
+//$('#stadiagamedb tbody').on( 'click', 'td', function () {
+//    alert( stadiaTable.cell( this ).data() );
+//} );
+
         } );
 
         function getQueryParams(qs) {
