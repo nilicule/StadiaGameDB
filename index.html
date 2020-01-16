@@ -4,10 +4,16 @@
     <meta charset="UTF-8">
     <title>Stadia Game DB</title>
 
+    <!-- scripts -->
     <script type="text/javascript" src="js/jquery-3.3.1.js"></script>
     <script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" class="init" src="js/script.js"></script>
+
+    <!-- styles -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
     <link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css">
 
+    <!-- favicons -->
     <link rel="icon" href="//ssl.gstatic.com/ygp/ui/img/stadia_logo_128.png" sizes="128x128">
     <link rel="apple-touch-icon-precomposed" href="//ssl.gstatic.com/ygp/ui/img/stadia_logo_128.png" sizes="128x128">
     <link rel="msapplication-square128x128logo" href="//ssl.gstatic.com/ygp/ui/img/stadia_logo_128.png" sizes="128x128">
@@ -17,61 +23,29 @@
     <link rel="icon" href="//ssl.gstatic.com/ygp/ui/img/stadia_logo_512.png" sizes="512x512">
     <link rel="apple-touch-icon-precomposed" href="//ssl.gstatic.com/ygp/ui/img/stadia_logo_512.png" sizes="512x512">
     <link rel="msapplication-square512x512logo" href="//ssl.gstatic.com/ygp/ui/img/stadia_logo_512.png" sizes="512x512">
-
-    <script type="text/javascript" class="init">
-        $(document).ready(function() {
-            var query = getQueryParams(document.location.search);
-
-	        var stadiaTable = $('#example').DataTable( {
-		        "ajax": 'data/gamedb.json',
-		        "iDisplayLength": 100,
-		        "columnDefs": [
-                    { "searchable": false, "targets": 0 },
-                    { "orderable": false, "targets": 0 }
-                ]
-	        } );
-
-            if (query.filter != null) {
-                stadiaTable.search(query.filter).draw();
-            }
-        } );
-
-        function getQueryParams(qs) {
-	        qs = qs.split('+').join(' ');
-	        var params = 	{},
-    			tokens,
-    			re = /[?&]?([^=]+)=([^&]*)/g;
-
-        	while (tokens = re.exec(qs)) {
-        		params[decodeURIComponent(tokens[1])] = decodeURIComponent(tokens[2]);
-	        }
-
-        	return params;
-        }
-	</script>
 </head>
 <body>
 
 <table id="example" class="display" style="width:100%">
     <thead>
-        <tr>
-            <th>Poster</th>
-            <th>Name</th>
-            <th>Genre</th>
-            <th>Released</th>
-            <th>Resolution</th>
-            <th>Players</th>
-        </tr>
+    <tr>
+        <th>Poster</th>
+        <th>Name</th>
+        <th>Genre</th>
+        <th>Released</th>
+        <th>Resolution</th>
+        <th>Players</th>
+    </tr>
     </thead>
     <tfoot>
-        <tr>
-            <th>Poster</th>
-            <th>Name</th>
-            <th>Genre</th>
-            <th>Released</th>
-            <th>Resolution</th>
-            <th>Players</th>
-        </tr>
+    <tr>
+        <th>Poster</th>
+        <th>Name</th>
+        <th>Genre</th>
+        <th>Released</th>
+        <th>Resolution</th>
+        <th>Players</th>
+    </tr>
     </tfoot>
 </table>
 

@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      "<a href='https://stadia.google.com/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/4950959380034dcda0aecf98f675e11f'><img src='images/posters/destiny2.png'></a>",
+      "<a href='https://stadia.google.com/store/details/20e792017ab34ad89b70dc17a5c72d68rcp1/sku/4950959380034dcda0aecf98f675e11f'><img class='rounded-corners' src='images/posters/destiny2.png'></a>",
       "Destiny 2",
       "Action, adventure, shooter",
       "November 19, 2019",
@@ -9,7 +9,7 @@
       "Single player, online multiplayer, competitive, online co-op"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/8615c857d7d54efebd94fe17e3f2896crcp1/sku/78ea22fb5c054167bb722322b469f33f'><img src='images/posters/rage_2.png'></a>",
+      "<a href='https://stadia.google.com/store/details/8615c857d7d54efebd94fe17e3f2896crcp1/sku/78ea22fb5c054167bb722322b469f33f'><img class='rounded-corners' src='images/posters/rage_2.png'></a>",
       "Rage 2",
       "Action, Shooter",
       "November 19, 2019",
@@ -17,7 +17,7 @@
       "Single player"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/f39390395ed5444d8e9b23460c8f9152rcp1/sku/6c8ae46efebc4bd1a7de725bc630ce65'><img src='images/posters/darksiders_genesis.png'></a>",
+      "<a href='https://stadia.google.com/store/details/f39390395ed5444d8e9b23460c8f9152rcp1/sku/6c8ae46efebc4bd1a7de725bc630ce65'><img class='rounded-corners' src='images/posters/darksiders_genesis.png'></a>",
       "Darksiders: Genesis",
       "Action, Adventure, Role-playing game, Arcade",
       "December 5, 2019",
@@ -25,7 +25,7 @@
       "Single player, local multiplayer, online multiplayer, local co-op, online co-op, split screen"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/879d82512f5441829250ead1aa678a70rcp1/sku/8ca5e97f091e4f7fbfcf8069ba850b1f'><img src='images/posters/metro_exodus.png'></a>",
+      "<a href='https://stadia.google.com/store/details/879d82512f5441829250ead1aa678a70rcp1/sku/8ca5e97f091e4f7fbfcf8069ba850b1f'><img class='rounded-corners' src='images/posters/metro_exodus.png'></a>",
       "Metro Exodus",
       "Shooter, Action",
       "November 19, 2019",
@@ -33,7 +33,7 @@
       "Single player"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/a38d988fb142400c947bf0a7b37fd404rcp1/sku/f879d932d28c4104958c7976f201ba38'><img src='images/posters/aot2-final_battle.png'></a>",
+      "<a href='https://stadia.google.com/store/details/a38d988fb142400c947bf0a7b37fd404rcp1/sku/f879d932d28c4104958c7976f201ba38'><img class='rounded-corners' src='images/posters/aot2-final_battle.png'></a>",
       "Attack on Titan 2: Final Battle",
       "Action",
       "November 19, 2019",
@@ -41,7 +41,7 @@
       "Single player, online multiplayer, online co-op, competitive"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/8b7e7f7036e5483eaa8745d46248536crcp1/sku/6760aad6e75b4edc9686c48e8dd38936'><img src='images/posters/aco.png'></a>",
+      "<a href='https://stadia.google.com/store/details/8b7e7f7036e5483eaa8745d46248536crcp1/sku/6760aad6e75b4edc9686c48e8dd38936'><img class='rounded-corners' src='images/posters/aco.png'></a>",
       "Assassin's Creed: Odyssey",
       "Action, Adventure",
       "November 19, 2019",
@@ -49,7 +49,7 @@
       "Single player"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/efa3b6108d3e41689b2223ba9d48f5c8rcp1/sku/bb9bcb490fd145d9997c8b3ff3f1039f'><img src='images/posters/sottr.png'></a>",
+      "<a href='https://stadia.google.com/store/details/efa3b6108d3e41689b2223ba9d48f5c8rcp1/sku/bb9bcb490fd145d9997c8b3ff3f1039f'><img class='rounded-corners' src='images/posters/sottr.png'></a>",
       "Shadow of the Tomb Raider",
       "Action, Adventure",
       "November 19, 2019",
@@ -57,7 +57,7 @@
       "Single player, online co-op"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/be080ad40b434ca289166031d3e88623rcp1/sku/958f4c0900c64e7e83b9218ab479304e'><img src='images/posters/borderlands3.png'></a>",
+      "<a href='https://stadia.google.com/store/details/be080ad40b434ca289166031d3e88623rcp1/sku/958f4c0900c64e7e83b9218ab479304e'><img class='rounded-corners' src='images/posters/borderlands3.png'></a>",
       "Borderlands 3",
       "Shooter, Role-playing game, Action",
       "December 17, 2019",
@@ -65,7 +65,7 @@
       "Single player, online multiplayer, online co-op, competitive"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/11c9ece5b3a045908d77cf2b66adb010rcp1/sku/06e101d56a03472bb6c204aee96187d7'><img src='images/posters/ghost_recon_breakpoint.png'></a>",
+      "<a href='https://stadia.google.com/store/details/11c9ece5b3a045908d77cf2b66adb010rcp1/sku/06e101d56a03472bb6c204aee96187d7'><img class='rounded-corners' src='images/posters/ghost_recon_breakpoint.png'></a>",
       "Ghost Recon: Breakpoint",
       "Action, Shooter",
       "December 18, 2019",
@@ -73,7 +73,7 @@
       "Single player, online multiplayer, online co-op, competitive"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/e5c6ec7bf437491ea4ac0917df8f9640rcp1/sku/f5562aaf93cb46e081d317263bde3013'><img src='images/posters/rottr_20_year.png'></a>",
+      "<a href='https://stadia.google.com/store/details/e5c6ec7bf437491ea4ac0917df8f9640rcp1/sku/f5562aaf93cb46e081d317263bde3013'><img class='rounded-corners' src='images/posters/rottr_20_year.png'></a>",
       "Rise of the Tomb Raider: 20 Year Celebration",
       "Action, Adventure",
       "November 19, 2019",
@@ -81,7 +81,7 @@
       "Single player, online co-op"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/da94f3aa88b24eb6ae6fdff798f73355rcp1/sku/8d3124a81f6444219acd3d99c90a5658'><img src='images/posters/kine.png'></a>",
+      "<a href='https://stadia.google.com/store/details/da94f3aa88b24eb6ae6fdff798f73355rcp1/sku/8d3124a81f6444219acd3d99c90a5658'><img class='rounded-corners' src='images/posters/kine.png'></a>",
       "Kine",
       "Puzzle",
       "November 19, 2019",
@@ -89,7 +89,7 @@
       "Single player"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/4b7f307c37364d659118bf7d435733c7rcp1/sku/3feef74cbacf4ba39b5d9087e0dfb9e4'><img src='images/posters/just_dance_2020.png'></a>",
+      "<a href='https://stadia.google.com/store/details/4b7f307c37364d659118bf7d435733c7rcp1/sku/3feef74cbacf4ba39b5d9087e0dfb9e4'><img class='rounded-corners' src='images/posters/just_dance_2020.png'></a>",
       "Just Dance 2020",
       "Kids & family, Party",
       "November 19, 2019",
@@ -97,7 +97,7 @@
       "Single player, local multiplayer, online multiplayer, local co-op, competitive, cross platform multiplayer"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/120348c2707740b99b509fad49a2f45drcp1/sku/888a817c35b5439bb6a03a78ab09e138'><img src='images/posters/samurai_shodown.png'></a>",
+      "<a href='https://stadia.google.com/store/details/120348c2707740b99b509fad49a2f45drcp1/sku/888a817c35b5439bb6a03a78ab09e138'><img class='rounded-corners' src='images/posters/samurai_shodown.png'></a>",
       "Samurai Shodown",
       "Action, Arcade, Fighting",
       "November 19, 2019",
@@ -105,7 +105,7 @@
       "Single player, online multiplayer, local multiplayer"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/a031419410cc48469ff8954ea0732640rcp1/sku/01e95e73256c465fb5620fc574446413'><img src='images/posters/trials_rising.png'></a>",
+      "<a href='https://stadia.google.com/store/details/a031419410cc48469ff8954ea0732640rcp1/sku/01e95e73256c465fb5620fc574446413'><img class='rounded-corners' src='images/posters/trials_rising.png'></a>",
       "Trials Rising",
       "Racing",
       "November 19, 2019",
@@ -113,7 +113,7 @@
       "Single player, local multiplayer, online multiplayer, competitive"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/ca805d3d37404654a91d2ea62fad7bd4rcp1/sku/75be643ff0fb40d7873fa41edb10d98a'><img src='images/posters/grid.png'></a>",
+      "<a href='https://stadia.google.com/store/details/ca805d3d37404654a91d2ea62fad7bd4rcp1/sku/75be643ff0fb40d7873fa41edb10d98a'><img class='rounded-corners' src='images/posters/grid.png'></a>",
       "GRID",
       "Racing",
       "November 19, 2019",
@@ -121,7 +121,7 @@
       "Single player, online multiplayer"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/c121d8b3fa744b52b71bf3599cb3da7frcp1/sku/6e98f34bbcae444a99816b8f2613452b'><img src='images/posters/thumper.png'></a>",
+      "<a href='https://stadia.google.com/store/details/c121d8b3fa744b52b71bf3599cb3da7frcp1/sku/6e98f34bbcae444a99816b8f2613452b'><img class='rounded-corners' src='images/posters/thumper.png'></a>",
       "Thumper",
       "Action, Arcade, Music or rhythm",
       "November 19, 2019",
@@ -129,7 +129,7 @@
       "Single player"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/7bfbcba307114ab88ae4231da2ec85d3rcp1/sku/f3f250e8a4d54f60ba730fbc04268052'><img src='images/posters/mortal_kombat_11.png'></a>",
+      "<a href='https://stadia.google.com/store/details/7bfbcba307114ab88ae4231da2ec85d3rcp1/sku/f3f250e8a4d54f60ba730fbc04268052'><img class='rounded-corners' src='images/posters/mortal_kombat_11.png'></a>",
       "Mortal Kombat 11",
       "Fighting, Action",
       "November 19, 2019",
@@ -137,7 +137,7 @@
       "Single player, local multiplayer, online multiplayer, online co-op, competitive"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/4884bd9bd7864cf28deef05ef4b69e70rcp1/sku/31047b9e82bb4a30ba66b24bef71cdf2'><img src='images/posters/wolfenstein_youngblood.png'></a>",
+      "<a href='https://stadia.google.com/store/details/4884bd9bd7864cf28deef05ef4b69e70rcp1/sku/31047b9e82bb4a30ba66b24bef71cdf2'><img class='rounded-corners' src='images/posters/wolfenstein_youngblood.png'></a>",
       "Wolfenstein: Youngblood",
       "Action, Shooter",
       "November 19, 2019",
@@ -145,7 +145,7 @@
       "Single player, online multiplayer, online co-op"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/a447622dbe084c3e9ace4f913a939afarcp1/sku/1611bf48ac784869bcbd1ce85bc71add'><img src='images/posters/final_fantasy_xv.png'></a>",
+      "<a href='https://stadia.google.com/store/details/a447622dbe084c3e9ace4f913a939afarcp1/sku/1611bf48ac784869bcbd1ce85bc71add'><img class='rounded-corners' src='images/posters/final_fantasy_xv.png'></a>",
       "Final Fantasy XV",
       "Role-playing game",
       "November 19, 2019",
@@ -153,7 +153,7 @@
       "Single player, online multiplayer, online co-op"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/80a70c13987841b3a2aedbcac54784abrcp1/sku/66f1b5a13ee54b7aa70aebfddd18c085'><img src='images/posters/dragonball_xenoverse.png'></a>",
+      "<a href='https://stadia.google.com/store/details/80a70c13987841b3a2aedbcac54784abrcp1/sku/66f1b5a13ee54b7aa70aebfddd18c085'><img class='rounded-corners' src='images/posters/dragonball_xenoverse.png'></a>",
       "Dragon Ball Xenoverse 2",
       "Action, Fighting",
       "December 17, 2019",
@@ -161,7 +161,7 @@
       "Single player, local multiplayer, online multiplayer, online co-op, competitive"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/42503ac2cfcf40018c15c86b86a5508drcp1/sku/c86bd12f279741a8b8c9c522845c7fa9'><img src='images/posters/tombraider.png'></a>",
+      "<a href='https://stadia.google.com/store/details/42503ac2cfcf40018c15c86b86a5508drcp1/sku/c86bd12f279741a8b8c9c522845c7fa9'><img class='rounded-corners' src='images/posters/tombraider.png'></a>",
       "Tomb Raider: Definitive Edition",
       "Action, Adventure",
       "November 19, 2019",
@@ -169,7 +169,7 @@
       "Single player, online multiplayer, competitive"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/2152a1e96d5b47b18a5df7ca9bb0751frcp1/sku/f790e37b6161477188923408085528a1'><img src='images/posters/rdr2.png'></a>",
+      "<a href='https://stadia.google.com/store/details/2152a1e96d5b47b18a5df7ca9bb0751frcp1/sku/f790e37b6161477188923408085528a1'><img class='rounded-corners' src='images/posters/rdr2.png'></a>",
       "Red Dead Redemption 2",
       "Action, Adventure",
       "November 19, 2019",
@@ -177,7 +177,7 @@
       "Single player, online multiplayer"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/ebf235012b054269af70eee901bc85cfrcp1/sku/c50094b71d054fc28f3116245d9dbc9a'><img src='images/posters/farming_simulator19.png'></a>",
+      "<a href='https://stadia.google.com/store/details/ebf235012b054269af70eee901bc85cfrcp1/sku/c50094b71d054fc28f3116245d9dbc9a'><img class='rounded-corners' src='images/posters/farming_simulator19.png'></a>",
       "Farming Simulator 2019",
       "Simulation, Simulator",
       "November 19, 2019",
@@ -185,7 +185,7 @@
       "Single player, online multiplayer, cross platform multiplayer"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/18a3cc2bb111419c8ac873086d04dfaarcp1/sku/9ac5597c3f4a4e648c9ae56bac3d1b32'><img src='images/posters/gylt.png'></a>",
+      "<a href='https://stadia.google.com/store/details/18a3cc2bb111419c8ac873086d04dfaarcp1/sku/9ac5597c3f4a4e648c9ae56bac3d1b32'><img class='rounded-corners' src='images/posters/gylt.png'></a>",
       "Gylt",
       "Action, Adventure",
       "November 19, 2019",
@@ -193,7 +193,7 @@
       "Single player"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/2afad3696b394f669b49e4c0b6016958rcp1/sku/b6d1b295ed0d4f1080576ac5d51df6d0'><img src='images/posters/nba_2k20.png'></a>",
+      "<a href='https://stadia.google.com/store/details/2afad3696b394f669b49e4c0b6016958rcp1/sku/b6d1b295ed0d4f1080576ac5d51df6d0'><img class='rounded-corners' src='images/posters/nba_2k20.png'></a>",
       "NBA 2K20",
       "Sports",
       "November 19, 2019",
@@ -201,7 +201,7 @@
       "Single player, local multiplayer, online multiplayer, local co-op, online co-op, competitive"
     ],
     [
-      "<a href='https://stadia.google.com/store/details/8a3cc52ad2334b1e91ded77bc43644e0rcp1/sku/32a0791a88474f08ad7a687846b786f2'><img src='images/posters/football_manager_2020.png'></a>",
+      "<a href='https://stadia.google.com/store/details/8a3cc52ad2334b1e91ded77bc43644e0rcp1/sku/32a0791a88474f08ad7a687846b786f2'><img class='rounded-corners' src='images/posters/football_manager_2020.png'></a>",
       "Football Manager 2020",
       "Sports, Simulation, Strategy",
       "November 19, 2019",
