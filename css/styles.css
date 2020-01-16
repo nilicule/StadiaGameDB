@@ -1,3 +1,7 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
 img.rounded-corners {
     border-radius: 30px;
 }
