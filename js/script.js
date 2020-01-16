@@ -1,7 +1,7 @@
         $(document).ready(function() {
             var query = getQueryParams(document.location.search);
 
-	        var stadiaTable = $('#example').DataTable( {
+	        var stadiaTable = $('#stadiagamedb').DataTable( {
 		        "ajax": 'data/gamedb.json',
 		        "iDisplayLength": 100,
 		        "columnDefs": [
