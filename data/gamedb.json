@@ -251,6 +251,33 @@
       "4k60",
       "Single player, local multiplayer, online multiplayer, local co-op, online co-op",
       "n/a"
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/b832835182124d4d83cb76a74a76a33frcp1/sku/90f5bd9270024986b26ee8221c1fa2e4'><img class='rounded-corners' src='images/posters/steamworld_dig_2.png'></a>",
+      "SteamWorld Dig 2",
+      "Action, Adventure, Indie",
+      "March 1, 2020",
+      "n/a",
+      "Single player",
+      "n/a"
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/b845605f8eb447008f3f0d2295265ffdrcp1/sku/a1afa4eca7b24713a9bcf3421dd85a13'><img class='rounded-corners' src='images/posters/steamworld_quest.png'></a>",
+      "SteamWorld Quest: Hand of Gilgamech",
+      "Action, Adventure, Role-playing game",
+      "March 1, 2020",
+      "n/a",
+      "Single player",
+      "n/a"
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/cabec52b78264dafac69011aeacd5753rcp1/sku/45918155e78145af937b5df1a574afd2'><img class='rounded-corners' src='images/posters/serious_sam.png'></a>",
+      "Serious Sam Collection",
+      "Shooter, Action",
+      "March 3, 2020",
+      "n/a",
+      "Single player, online multiplayer, online co-op, split screen",
+      "n/a"
     ]
   ]
 }
