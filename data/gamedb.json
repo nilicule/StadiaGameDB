@@ -278,6 +278,33 @@
       "unknown",
       "Single player, online multiplayer, online co-op, split screen",
       "n/a"
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/c4898519ff254b969ede8bafdff927e8rcp1/sku/f6658df6c8874c828532d5d24c66d58f'><img class='rounded-corners' src='images/posters/steamworld_dig.png'></a>",
+      "Steamworld Dig",
+      "Action, Adventure, Indie",
+      "March 10, 2020",
+      "unknown",
+      "Single player",
+      "82"
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/819cdf4b7ff94947941106571ccf41e5rcp1/sku/f47a1e1e9f0b43078e0a80c57068b085'><img class='rounded-corners' src='images/posters/steamworld_heist.png'></a>",
+      "Steamworld Heist",
+      "Strategy, Action, Adventure",
+      "March 10, 2020",
+      "unknown",
+      "Single player",
+      "82"
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/d43cd46c81734ca48e1a615310d0237crcp1/sku/bed63eac149542078fa5b9d6f20f5f2f'><img class='rounded-corners' src='images/posters/tom_clancys_the_division_2.png'></a>",
+      "Tom Clancy's The Division 2",
+      "Action",
+      "March 17, 2020",
+      "unknown",
+      "Cross platform multiplayer, online multiplayer, online co-op, competitive, cross platform multiplayer",
+      "83"
     ]
   ]
 }
