@@ -11,3 +11,49 @@ img.rounded-corners {
     padding-left: 20px;
     padding-right: 20px;
 }
+
+
+
+body.dark-theme {
+  background: #202124;
+  color: #eee;
+}
+
+body.dark-theme table.dataTable.stripe tbody tr.odd, body.dark-theme table.dataTable.display tbody tr.odd {
+  background: rgba(255, 255, 255, .1);
+}
+
+body.dark-theme table.dataTable.stripe tbody tr.even, body.dark-theme table.dataTable.display tbody tr.even {
+  background: rgba(255, 255, 255, .2);
+}
+body.dark-theme table.dataTable.display tbody tr.even>.sorting_1,
+body.dark-theme table.dataTable.order-column.stripe tbody tr.even>.sorting_1,
+body.dark-theme table.dataTable.display tbody tr.odd>.sorting_1,
+body.dark-theme table.dataTable.order-column.stripe tbody tr.odd>.sorting_1 {
+  background: rgba(255, 255, 255, .1);
+}
+
+body.dark-theme .dataTables_wrapper .dataTables_length,
+body.dark-theme .dataTables_wrapper .dataTables_filter,
+body.dark-theme .dataTables_wrapper .dataTables_info,
+body.dark-theme .dataTables_wrapper .dataTables_processing,
+body.dark-theme .dataTables_wrapper .dataTables_paginate {
+  color: #eee;
+}
+
+body.dark-theme table.dataTable thead th,
+body.dark-theme table.dataTable thead td {
+  border-color: #eee;
+}
+
+body.dark-theme .github-cat{
+  fill: rgba(255,255,255,.2) !important;
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10px;
+  cursor: pointer;
+}
