@@ -350,6 +350,42 @@
       "unknown",
       "Single player, online multiplayer, competitive",
       ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/10b8a9cc8ec746f29afc1fc3c3ded28brcp1/sku/256f320f886b4ee68b7980d6fc1bd1b1'><img class='rounded-corners' src='images/posters/monopoly.png'></a>",
+      "Monopoly",
+      "Board game, Kids & family",
+      "April 28, 2020",
+      "unknown",
+      "Single player, local multiplayer, online multiplayer, competitive",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/71e7c4fc5ca24f0f8301da6d042bf18e'><img class='rounded-corners' src='images/posters/pubg.png'></a>",
+      "PlayerUnknown's Battlegrounds",
+      "Shooter, Action",
+      "April 28, 2020",
+      "unknown",
+      "Online multiplayer, competitive, cross platform multiplayer",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/73182869b2a644bdbef46984b96e1721rcp1/sku/a6ffc113bea9495b84581796893ebf50'><img class='rounded-corners' src='images/posters/get_packed.png'></a>",
+      "Get Packed",
+      "Party, Action",
+      "April 28, 2020",
+      "unknown",
+      "Single player, local multiplayer, online multiplayer, local co-op, online co-op, competitive",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/48ead86182b14fe0afcc5f2927dbed51rcp1/sku/a6c13e6aa796439295774eb0e8cd3f8b'><img class='rounded-corners' src='images/posters/octopath_traveler.png'></a>",
+      "Octopath Traveler",
+      "Role-playing game",
+      "April 28, 2020",
+      "unknown",
+      "Single player",
+      ""
     ]
   ]
 }
