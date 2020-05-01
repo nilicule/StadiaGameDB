@@ -386,6 +386,24 @@
       "unknown",
       "Single player",
       ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/cfd2977e1b9f412387ca2f44848400acrcp1/sku/e8ed70244808408cbb7d3b2b1f06547f'><img class='rounded-corners' src='images/posters/the_turing_test.png'></a>",
+      "The Turing Test",
+      "Puzzle, Adventure",
+      "May 1, 2020",
+      "unknown",
+      "Single player",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/cba537cccfe3470b8784f88660ea5f09rcp1/sku/a7b1581491ea4b7c9fcc89710561f5f7'><img class='rounded-corners' src='images/posters/zombie_army_4.png'></a>",
+      "Zombie Army 4: Dead War",
+      "Arcade, Action, Adventure",
+      "May 1, 2020",
+      "unknown",
+      "Single player, online multiplayer",
+      ""
     ]
   ]
 }
