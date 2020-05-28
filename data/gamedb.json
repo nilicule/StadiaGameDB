@@ -422,6 +422,24 @@
       "unknown",
       "Single player, online multiplayer, online co-op, cross platform multiplayer",
       ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/c727a9083ce649e5b1cc6999c4fa2e5frcp1/sku/43fb9c029d0641e290fdbaedea1c3a40'><img class='rounded-corners' src='images/posters/jotun_valhalla_edition.png'></a>",
+      "Jotun: Valhalla Edition",
+      "Action, Adventure",
+      "May 26, 2020",
+      "unknown",
+      "Single player",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/5ec4424b963f44d18d0016322c19c9f0rcp1/sku/788a1f7b00f74b26b12d7c6d62d50d96'><img class='rounded-corners' src='images/posters/sundered_eldritch_edition.png'></a>",
+      "Sundered: Eldritch Edition",
+      "Action, Adventure",
+      "May 26, 2020",
+      "unknown",
+      "Single player, local co-op",
+      ""
     ]
   ]
 }
