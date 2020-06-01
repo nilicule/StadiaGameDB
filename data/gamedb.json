@@ -440,6 +440,42 @@
       "unknown",
       "Single player, local co-op",
       ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/f7afcff709e74227a5648aacadf03815rcp1/sku/ce8a411f4dc2470da828fc259c584aa5'><img class='rounded-corners' src='images/posters/superhot.png'></a>",
+      "SUPERHOT",
+      "Action, Shooter",
+      "June 1, 2020",
+      "unknown",
+      "Single player",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/3aed855f10b34f618e5f6c6f5467bcf9rcp1/sku/77ab8b1807a849e3991826d8d7a9e3e0'><img class='rounded-corners' src='images/posters/little_nightmares.png'></a>",
+      "Little Nightmares",
+      "Adventure",
+      "June 1, 2020",
+      "unknown",
+      "Single player",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/bbb1a143aa3449a5a1f236a05c305c9frcp1/sku/fe5459c281d9443ca8f0e420f59936fc'><img class='rounded-corners' src='images/posters/power_rangers.png'></a>",
+      "Power Rangers: Battle for the Grid",
+      "Fighting",
+      "June 1, 2020",
+      "unknown",
+      "Single player, local multiplayer, online multiplayer, competitive, cross platform multiplayer",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/ffda0b7e397243f8956f92f89b6902c4rcp1/sku/ac819b64342841eda35cebfd3a34c769'><img class='rounded-corners' src='images/posters/panzer_dragoon.png'></a>",
+      "Panzer Dragoon",
+      "Arcade, Action, Adventure",
+      "June 1, 2020",
+      "unknown",
+      "Single player",
+      ""
     ]
   ]
 }
