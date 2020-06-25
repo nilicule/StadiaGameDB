@@ -485,6 +485,33 @@
       "unknown",
       "Single player, online multiplayer, online co-op, competitive, cross platform multiplayer",
       ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/b65c1c4dcdf24446bcecda190c6a2fe7rcp1/sku/92cd0fa4958444b5846d1b72878c7e25'><img class='rounded-corners' src='images/posters/metro_last_light_redux.png'></a>",
+      "Metro Last Light Redux",
+      "Shooter, Action",
+      "June 23, 2020",
+      "unknown",
+      "Single player",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/9b3ea6519cac48d68ca821f07b1a6a3drcp1/sku/de1e97332f1148468759dfc4553edad9'><img class='rounded-corners' src='images/posters/metro_2033_redux.png'></a>",
+      "Metro 2033 Redux",
+      "Shooter, Action",
+      "June 23, 2020",
+      "unknown",
+      "Single player",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/3e7b24085e704c10ab03f93a19947c14rcp1/sku/599a08652fad4a41baad8591e18e83e2'><img class='rounded-corners' src='images/posters/wave_break.png'></a>",
+      "Wave Break",
+      "Arcade, Action, Sports",
+      "June 23, 2020",
+      "unknown",
+      "Single player, online co-op, online multiplayer, competitive",
+      ""
     ]
   ]
 }
