@@ -521,6 +521,33 @@
       "unknown",
       "Single player, local multiplayer, local co-op, online multiplayer, online co-op",
       ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/bf97db3ce0644a448815aef1a5c33e0a'><img class='rounded-corners' src='images/posters/crayta.png'></a>",
+      "Crayta",
+      "Arcade, Adventure, Party, Action",
+      "July 1, 2020",
+      "unknown",
+      "Online multiplayer, competitive, online co-op",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/ef14fb2f692c4b42b4b092d3e7864cd8rcp1/sku/38f772ac664545d99890ebb460d1d894'><img class='rounded-corners' src='images/posters/monster_boy_cursed_kingdom.png'></a>",
+      "Monster Boy and the Cursed Kingdom",
+      "Action, Adventure, Role-playing game",
+      "July 1, 2020",
+      "unknown",
+      "Single player",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/0a60fff637b445a797623d0c69433a9crcp1/sku/772119af45f44182bca3ff8d39f62b0b'><img class='rounded-corners' src='images/posters/west_loathing.png'></a>",
+      "West of Loathing",
+      "Role-playing game, Adventure, Indie",
+      "July 1, 2020",
+      "unknown",
+      "Single player",
+      ""
     ]
   ]
 }
