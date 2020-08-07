@@ -593,6 +593,33 @@
       "unknown",
       "Single player",
       ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/f5f9708a422a44cc876c240cfa07221drcp1/sku/12f3e5611c34478fb0285c6de4f2a8aa'><img class='rounded-corners' src='images/posters/kona.png'></a>",
+      "Kona",
+      "Adventure",
+      "August 2, 2020",
+      "unknown",
+      "Single player",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/8e77c7a4368944589b4c9d8179d2eb4crcp1/sku/2d155b69c4af46078db2d96a8b0e6883'><img class='rounded-corners' src='images/posters/strange_brigade.png'></a>",
+      "Strange Brigade",
+      "Arcade, Action, Adventure",
+      "August 1, 2020",
+      "unknown",
+      "Single player, 2-4 players online co-op",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/ed05d9df2ec4452594b07336e360a1aarcp1/sku/f139cbd41135461a83da504824a5d382'><img class='rounded-corners' src='images/posters/relicta.png'></a>",
+      "Relicta",
+      "Puzzle, Adventure",
+      "August 4, 2020",
+      "unknown",
+      "Single player",
+      ""
     ]
   ]
 }
