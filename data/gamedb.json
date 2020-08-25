@@ -647,6 +647,24 @@
       "unknown",
       "Single player",
       ""
+    ],    
+    [
+      "<a href='https://stadia.google.com/store/details/6a2ac2fc8e684c41b5c14981dcb454fdrcp1/sku/9c7fd0f16817482c9e0b311a8340cb0b'><img class='rounded-corners' src='images/posters/pga2k21.png'></a>",
+      "PGA TOUR 2K21",
+      "Sports, Simulation",
+      "August 21, 2020",
+      "unknown",
+      "Single player, 2-4 players local multiplayer, 2-4 players online multiplayer, 2-4 players competitive",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/430bbe284fb7482c9afe8e877b119269rcp1/sku/5582aa71e58a45e59a05598a93cde9a3'><img class='rounded-corners' src='images/posters/spiritfarer.png'></a>",
+      "Spiritfarer",
+      "Simulation, Adventure",
+      "August 21, 2020",
+      "unknown",
+      "Single player, 1-2 players local co-op",
+      ""
     ]
   ]
 }
