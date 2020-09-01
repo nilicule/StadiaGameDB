@@ -674,6 +674,51 @@
       "unknown",
       "Single player",
       ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/2847419bbb5146ed877a308d9884f504rcp1/sku/470c64ea659b441a8b4d10f3e30d1862p'><img class='rounded-corners' src='images/posters/super_bomberman.png'></a>",
+      "SUPER BOMBERMAN R ONLINE",
+      "Casual",
+      "September 2, 2020",
+      "unknown",
+      "2-64 players online multiplayer, 2-64 players competitive",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/9dc548a191914b419cc80802ca64788frcp1/sku/dc0627d002f24fdba14ac6755250360ep'><img class='rounded-corners' src='images/posters/hello_neighbor.png'></a>",
+      "Hello Neighbor",
+      "Action, Adventure",
+      "September 1, 2020",
+      "unknown",
+      "Single player",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/17d98b899531490ba355016919ffe6ff'><img class='rounded-corners' src='images/posters/hitman.png'></a>",
+      "HITMAN",
+      "Action",
+      "September 1, 2020",
+      "unknown",
+      "Single player",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/70d2750d0c614a01afbb34e5c4f3a9bc'><img class='rounded-corners' src='images/posters/hitman2.png'></a>",
+      "HITMAN 2",
+      "Action",
+      "September 1, 2020",
+      "unknown",
+      "Single player",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/16330bd770134d85b5bef3cc6b1407ffrcp1/sku/896565e45f974774a117876f949630df'><img class='rounded-corners' src='images/posters/gunsport.png'></a>",
+      "Gunsport",
+      "Arcade, Sports, Indie",
+      "September 1, 2020",
+      "unknown",
+      "Single player, 2 players local co-op, 2-4 players local multiplayer, 2-4 players online multiplayer, 4 players competitive",
+      ""
     ]
   ]
 }
