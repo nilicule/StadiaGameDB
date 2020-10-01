@@ -784,7 +784,7 @@
       ""
     ],
     [
-      "<a href='https://stadia.google.com/store/details/b3bd32ef05444a189dcdc88f8e85d7f2rcp1/sku/3ff11dc4d2bf449f89c89bf329003e10'><img class='rounded-corners' src='images/posters/seriousSam.png'></a>",
+      "<a href='https://stadia.google.com/store/details/b3bd32ef05444a189dcdc88f8e85d7f2rcp1/sku/3ff11dc4d2bf449f89c89bf329003e10'><img class='rounded-corners' src='images/posters/serious_sam_4.png'></a>",
       "Serious Sam 4",
       "Action, Shooting",
       "September 24, 2020",
@@ -793,12 +793,21 @@
       ""
     ],
     [
-      "<a href='https://stadia.google.com/store/details/7b6d79b833354dcaa9b2461086a7763crcp1/sku/5470776eda9b4270b049f081c6bc07ce'><img class='rounded-corners' src='images/posters/riskOkRain2.png'></a>",
+      "<a href='https://stadia.google.com/store/details/7b6d79b833354dcaa9b2461086a7763crcp1/sku/5470776eda9b4270b049f081c6bc07ce'><img class='rounded-corners' src='images/posters/risk_of_rain_2.png'></a>",
       "Risk of Rain 2",
       "Action, Adventure, Shooting",
       "September 29, 2020",
       "unknown",
       "Single player, 1-4 players online multiplayer, 1-4 players online co-op",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/16d98de80a3340ffa4129953ae4e3206rcp1/sku/6ec089b591ee47fab2fed726e466700ap'><img class='rounded-corners' src='images/posters/human_fall_flat.png'></a>",
+      "Human: Fall Flat Stadia Edition",
+      "Indie, Adventure, Kids & family",
+      "October 1, 2020",
+      "unknown",
+      "Single player, 2 players local multiplayer, 2-16 players online multiplayer, 2 players local co-op, 2-16 players online co-op, 2 players split screen",
       ""
     ]
   ]
