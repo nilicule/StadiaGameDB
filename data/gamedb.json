@@ -1007,6 +1007,42 @@
       "unknown",
       "Single Player, 2 players Local Multiplayer, 2 players Online Multiplayer, 2 players Local Co-op, 2 players Online Co-op, 2 players Split-screen",
       ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/8f8d583a2ae843e0b31fa653cea5d27drcp1/sku/5f1dfba8e3d64b3bbd4979c504cea096p'><img class='rounded-corners' src='images/posters/secret_neighbor.png'></a>",
+      "Secret Neighbor",
+      "Action, Adventure",
+      "December 1, 2020",
+      "unknown",
+      "2-6 players Online Multiplayer",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/1a871cfe8a7d4ebc8592c2ad4bc07150rcp1/sku/ab83a7b5efed40188c8ab8798d7dbfa6'><img class='rounded-corners' src='images/posters/into_the_breach.png'></a>",
+      "Into The Breach",
+      "Indie, Strategy, Board game",
+      "December 1, 2020",
+      "unknown",
+      "Single Player",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/44752f1774ca4508a2c45e57121d7e8frcp1/sku/dfda545ac2e94885a13b1434d370d4b0'><img class='rounded-corners' src='images/posters/everspace.png'></a>",
+      "Everspace",
+      "Shooter, Action, Indie",
+      "December 1, 2020",
+      "unknown",
+      "Single Player",
+      ""
+    ],
+    [
+      "<a href='https://stadia.google.com/store/details/e7506ec75c8046dfa7879fe604505ca7rcp1/sku/2af064a6b4814ae6a280ab8018842623p'><img class='rounded-corners' src='images/posters/monster_jam_steel_titans.png'></a>",
+      "Monster Jam Steel Titans",
+      "Racing",
+      "December 1, 2020",
+      "unknown",
+      "Single Player, 2 players Local Multiplayer",
+      ""
     ]
   ]
 }
